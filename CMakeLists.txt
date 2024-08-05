@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28)
-project(4block)
+project(gps)
 
 set(CMAKE_CXX_STANDARD 17)
 
